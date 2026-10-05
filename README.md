@@ -19,7 +19,7 @@ Assuming you already have GNU Radio installed on your system,
 
 - Clone this repo:
 ```bash 
-    git clone [text](https://github.com/ssuDoS/gr-loraJam.git)
+    git clone https://github.com/dossam/gr-loraJam.git
 ```
 
 - Go to the newly cloned repo:
